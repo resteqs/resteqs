@@ -1,6 +1,6 @@
 
 <!--
-**tomkaX/tomkaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**resteqs/resteqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Tamara Koliada </h1>
-<h3 align="center">A passionate Data Scientist and Open Source contributor  </h3>
+<h1 align="center">Hi 👋, I'm Antoni Mackowiak</h1>
+<h3 align="center">A teenager writing shitty code</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
@@ -33,30 +33,18 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/tomkaX?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/resteqs?tab=repositories)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything**, but i will not be able to answer propably. 
 
-- 📫 How to reach me **tomacolyada@gmail.com**
+- 📫 How to reach me **Just dont** if you really need use discord: resteqs#0336
 
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
+  <img src="https://github-readme-stats.vercel.app/api?username=resteqs&show_icons=true" alt="resteqs" />
+  <img  align="right" src="https://github.com/resteqs/resteqs/blob/master/gifs/3aM.gif" width="230">
  </p>
- <!--
-Don't forget to fork this repo and say thanks to **tomkaX/tomkaX** it  appears on your GitHub profile.
--->
-
-<p align="center">
-<a href="https://www.linkedin.com/in/tomakoliada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/tomkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" /></a>
- <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
-
-</p>
-
 
 
 
