@@ -1,50 +1,21 @@
-
-<!--
-**resteqs/resteqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+I am a 19 years old AI and Data Science Student at University of Würzburg in Germany<br><br>Currently:<br>Working on a Chess Bot together with @agentusX<br>Employed at the chair for NLP as research assistant under Prof. Dr. Goran Glavas
 
 
-<h1 align="center">Hi 👋, I'm Antoni Mackowiak</h1>
-<h3 align="center">A teenager writing shitty code</h3>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@resteqs) 
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=resteqs&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=resteqs&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=resteqs&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=resteqs" alt="tomkaX" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apacheflink.svg" alt="flinks" width="20" height="20"/> 
-  <img src="https://img.icons8.com/ultraviolet/40/000000/xbox-r.png" alt="R" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
+---
+[![](https://visitcount.itsvg.in/api?id=resteqs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/resteqs?tab=repositories)
-
-- 💬 Ask me about **anything**, but i will not be able to answer propably. 
-
-- 📫 How to reach me **Just dont** if you really need use discord: resteqs#0336
-
-
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=resteqs&show_icons=true" alt="resteqs" />
-  <img  align="right" src="https://github.com/resteqs/resteqs/blob/master/gifs/3aM.gif" width="230">
- </p>
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
