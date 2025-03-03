@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 19 years old AI and Data Science Student at University of Würzburg in Germany<br><br>Currently:<br>Working on a Chess Bot together with @agentusX<br>Employed at the chair for NLP as research assistant under Prof. Dr. Goran Glavas
+I am a 20 years old AI and Data Science Student at University of Würzburg in Germany<br><br>Currently: Employed at the chair for NLP as research assistant under Prof. Dr. Goran Glavas
 
 
 ## 🌐 Socials:
