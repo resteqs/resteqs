@@ -87,7 +87,7 @@ A macOS app that asks what you intend to do before opening supported AI tools, m
 <table>
 <tr>
 <td valign="top"><strong>Now</strong></td>
-<td valign="top"><strong>Cross Commerce</strong><br>Building a document management system (DMS).</td>
+<td valign="top"><strong>SnapAddy</strong><br>Training AI models (LLMs + ML).</td>
 </tr>
 <tr>
 <td valign="top"><strong>Previously</strong></td>
