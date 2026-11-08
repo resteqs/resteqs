@@ -4,9 +4,9 @@
 
 **Studying AI & Data Science (M.Sc.) @ University of Würzburg**
 
-Building document management software (DMS) @ Cross Commerce
+Training AI models @ SnapAddy
 
-21-year-old Polish developer living in Germany
+22-year-old Polish developer living in Germany
 
 [LinkedIn](https://www.linkedin.com/in/antoni-mackowiak-4b6275337)
 
